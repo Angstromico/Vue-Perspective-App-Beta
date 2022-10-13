@@ -6,7 +6,7 @@ Vue.createApp({
       rotateY: 0,
       rotateZ: 0,
       showCopy: false,
-      message: 'CSS copied to clipboard!',
+      message: 'CSS transform copied to clipboard!',
       color: '#8d81f3',
       letterColor: 'white',
     }
